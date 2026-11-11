@@ -1,1 +1,32 @@
-# Hi, I’m SUGUMAR9128 👋\n\n🎓 I’m an undergraduate Computer Science and Engineering student at **St. Joseph’s College of Engineering**.\n\nI’m interested in building practical solutions, developing my skills, and preparing for a successful career in technology. I’m especially happy to discuss **interview preparation and how to crack interviews**.\n\n## 🌱 What I’m Focused On\n\n- Strengthening my technical and professional skills\n- Preparing for interviews and placement opportunities\n- Working toward a high-impact placement opportunity abroad\n\n## 🚀 Featured Project\n\n### Fixlit — Campus Maintenance Reporting System\n\nFixlit is a campus maintenance reporting system that helps people report problems around campus digitally. It makes it easier to send maintenance messages to the appropriate people, helping campus issues get communicated more effectively.\n\n## 🎧 Outside of Technology\n\n- 🎮 Gaming\n- 🎵 Listening to music\n- 📚 Skill development\n\n## 🗣️ Languages\n\nTamil · English\n\n
+ # Hi there, I'm  Sugumar B 👋
+
+I'm a First Year Student studying Bachelor of Engineering CSE at St. Joseph's College of Engineering. I'm passionate about software development, data science, AI and love turning ideas into code.
+LinkedIn:  | GitHub: https://github.com/SUGUMAR9128
+
+## 🎓 Education & Coursework
+I'm a Computer Science student passionate about technology, problem solving, and continuous learning.
+- *Degree:* B.E Computer Science and Engineering
+- *Expected Graduation:* August 2030
+- *What I study*: Pursuing B.E. in Computer Science and Engineering at St. Joseph's College of
+Engineering
+- *Foundation*: Building my foundation in Programming, Data Structures & Algorithms, and Software
+Development
+- *Interested in*: Artificial Intelligence, Data Science, and real-world problem solving
+- *Exploring*: Projects that connect Computer Science, Data, and Technology
+- *Hackathons*: Interested in hackathons, collaborative projects, and technical challenges
+- Exploring technical writing and learning through projects
+- Always learning, building, and improving
+
+## 🔭 What I'm Up To
+- 🎒 Involved in: Coding Club
+
+## 🛠️ Tech Stack
+- *Languages:* C, C++, Python
+
+<!--## 🚀 Featured Projects
+- *[Project Name 1]([Link to your repo]):* [One-sentence description of what it does and the tech stack used].
+- *[Project Name 2]([Link to your repo]):* [One-sentence description of what it does and the tech stack used]. -->
+
+## 📫 Let's Connect
+- *LinkedIn:*  
+- *Email:* sugu26cs1554@gmail.com  
