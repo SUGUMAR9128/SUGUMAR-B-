@@ -1,7 +1,7 @@
  # Hi there, I'm  Sugumar B 👋
 
 I'm a First Year Student studying Bachelor of Engineering CSE at St. Joseph's College of Engineering. I'm passionate about software development, data science, AI and love turning ideas into code.
-LinkedIn:  | GitHub: https://github.com/SUGUMAR9128
+LinkedIn: https://www.linkedin.com/in/sugumar-b-876665439/ | GitHub: https://github.com/SUGUMAR9128
 
 ## 🎓 Education & Coursework
 I'm a Computer Science student passionate about technology, problem solving, and continuous learning.
@@ -28,5 +28,5 @@ Development
 - *[Project Name 2]([Link to your repo]):* [One-sentence description of what it does and the tech stack used]. -->
 
 ## 📫 Let's Connect
-- *LinkedIn:*  
+- *LinkedIn:* https://www.linkedin.com/in/sugumar-b-876665439/ 
 - *Email:* sugu26cs1554@gmail.com  
